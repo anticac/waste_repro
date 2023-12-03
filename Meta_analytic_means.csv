@@ -1,0 +1,13 @@
+Stage;Generality;mean;lowerCI;upperCI
+Publication;1;0.417;0.383;0.451
+Reporting;1;0.383;0.361;0.405
+Study planning;1;0.475;0.453;0.497
+Publication;2&3;0.465;0.439;0.492
+Reporting;2&3;0.544;0.491;0.597
+Study planning;2&3;0.742;0.731;0.754
+Publication;All;0.4469;0.426;0.4678
+Reporting;All;0.407;0.387;0.428
+Study planning;All;0.674;0.663;0.684
+Publication;with Jennions&Moller paper;0.274;0.261;0.288
+Reporting;with Jennions&Moller paper;0.407;0.387;0.428
+Study planning;with Jennions&Moller paper;0.674;0.663;0.684

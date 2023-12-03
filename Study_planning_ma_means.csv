@@ -1,0 +1,10 @@
+Planning;Generality;mean;lowerCI;upperCI
+Design;1;0.395;0.373;0.417
+Blinding;1;0.825;0.784;0.863
+Analysis;1;;;
+Design;2&3;0.751;0.738;0.764
+Blinding;2&3;0.809;0.776;0.840
+Analysis;2&3;0.471;0.413;0.528
+Design;All;0.652;0.640;0.664
+Blinding;All;0.815;0.790;0.839
+Analysis;All;0.471;0.413;0.528
